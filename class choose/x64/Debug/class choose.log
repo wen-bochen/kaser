@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\c++项目\class choose\FileName.cpp(121,2): warning C4091: “typedef ”: 没有声明变量时忽略“UGstudent”的左侧
+D:\c++项目\class choose\FileName.cpp(130,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  class choose.vcxproj -> D:\c++项目\class choose\x64\Debug\class choose.exe
